@@ -2,7 +2,7 @@
 
 正式开篇之前，先吟句诗： 满园春色关不住，一只红杏出墙来。在局域网里呆久的猿们大概都能懂那只红杏的想法（你别想歪了）。
 
-![wall](newbie777.github.io/stylesheets/wall.jpg)
+![wall](https://newbie777.github.io/stylesheets/wall.jpg)
 
 很遗憾，作为一个搬砖的，并没有能力改变这个环境，所以只能依靠众人的智慧寻求其他法门。且不说国外的porn站点对广大技术宅男的吸引力和启蒙教育，单独一个谷歌出来的正确答案就能让夜间苦苦解bug的你我俨然一笑，伴着cherry红轴噼里啪啦的响声，行云流水般typing的快感怎能让敲完回车键后站点被block住或者loding了5分钟所摧毁，哈利怒呀，阿西吧，fuck，出墙吧。
 
