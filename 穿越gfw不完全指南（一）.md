@@ -14,7 +14,7 @@
 
 对于那些只是平时以google搜索为主的，并没有“又吐不”需求的大流量用户， 我推荐你使用蓝灯。谷歌负责的项目，目前一个月免费高速900mb流量，900mb用完后会进行限速，但是还是可以直接用。安装和使用也是傻瓜式的操作。具体请移步项目主页 
 
-![lantern](https://github.com/getlantern/lantern)
+[lantern project](https://github.com/getlantern/lantern)
 
 lantern  目前来说对pc用户比较适用，ios端没有相应的客户端，对于该类人群,ios端有很多不错的免费的梯子客户端，应该满足你的需求。
 
